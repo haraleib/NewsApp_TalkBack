@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="WirtschaftTalkBack" />
+    <item type="id" name="SportTalkBack" />
+    <item type="id" name="LifestyleTalkBack" />
+    <item type="id" name="PolitikTalkBack" />
+    <item type="id" name="NewsShortArticleTextView2" />
+    <item type="id" name="NewsShortArticleTextView3" />
+    <item type="id" name="Booksmarks1" />
+    <item type="id" name="Booksmarks2" />
+    <item type="id" name="Booksmarks3" />
+    <item type="id" name="Booksmarks4" />
+    <item type="id" name="Ticker1" />
+    <item type="id" name="Ticker2" />
+    <item type="id" name="Ticker3" />
+</resources>
